@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Futura:wght@100&display=swap'); 
+
+html, body, [class*="css"] {
+    font-family: Futura, sans-serif; 
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.main > div {
+    padding-top: 0rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+h1 {
+  font-variant: small-caps;
+}
+
+h2 {
+    font-size: 30px;
+    text-transform: uppercase;
+}
