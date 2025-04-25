@@ -69,7 +69,7 @@ OBJECTIVES = {
 # Note that entries lacking a "collections" array are assumed to include all collections
 CORPORA = {
     "fora-public": {
-        "name": "Pubic Fora conversations",
+        "name": "Public Fora conversations",
         "conversations": get_public_conversations(),
         "examples": [
             "What are some themes related to gentrification?",
