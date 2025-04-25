@@ -1,6 +1,8 @@
 # FoRAGE
 FoRAGE (FOra Retrieval-Augmented GEneration)
 
+This repository has the code for the FoRAGE search engine.  CCC maintains a deployment of this search engine at https://forage.ccc-mit.org/
+
 ## Preliminaries:
 
 - Install the required python dependencies:
